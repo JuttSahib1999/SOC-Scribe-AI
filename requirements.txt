@@ -1,0 +1,9 @@
+streamlit
+pandas
+sqlalchemy
+langchain
+langchain-community
+langchain-core
+fpdf
+python-docx
+markdown
