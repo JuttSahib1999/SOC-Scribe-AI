@@ -12,12 +12,6 @@ __pycache__/
 *.db
 *.sqlite3
 
-# Exports
-*.pdf
-*.docx
-*.json
-*.md
-
 # OS specific
 .DS_Store
 Thumbs.db
